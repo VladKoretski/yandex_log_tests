@@ -1,4 +1,4 @@
-# ya_log
+# Учебный проект логирования на Яндекс и тестирование
 
 Автотесты формы авторизации Яндекса (`https://passport.yandex.ru/auth/`)
 на Python + Selenium + pytest.
